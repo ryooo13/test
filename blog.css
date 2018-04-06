@@ -1,0 +1,12 @@
+.gradation{
+  background: linear-gradient(to right, red, white);
+  width: 600px;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+p {
+  font-size: 24px;
+  color: #FFF;
+}
